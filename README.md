@@ -5,4 +5,4 @@ Observaciones de cara al futuro:
 
 - Planificar una estructura modular para el proyecto.
 - Planificar por partes las responsabilidades de cada uno.
-- Planificar una interfaz gráfica.O
+- Planificar una interfaz gráfica.
